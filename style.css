@@ -1,0 +1,97 @@
+body{
+    background-color: rgb(162, 159, 159);;
+}
+
+#first {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.boxx{
+    padding: 10px;
+    border: 2px solid black;
+    margin-bottom: 10px;
+}
+
+.boxx img{
+    width: 200px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1{
+    font-size: 16px;
+    text-align: center ;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 400;
+}
+
+.boxeed {
+    color: white;
+    padding: 8px 6px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font: 14px "Oswald", sans-serif;
+    margin: 2px 2px;
+    -webkit-transition-duration: 0.4s;
+    /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+      margin: 10px 10px 10px 10px;
+  
+  }
+
+  
+  .button1 {
+      background-color: #44b81a;
+      color: white;
+      border: 1px solid green;
+      border-radius: 5%;
+  }
+
+  .button2 {
+    background-color: #f043b9;
+    color: white;
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 5%;
+}
+
+.button3 {
+    background-color: #15ace8;
+    color: white;
+    border: 1px solid green;
+    border-radius: 5%;
+}
+
+
+
+.boxeed1 {
+    color: white;
+    padding: 4px 3px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font: 14px "Oswald", sans-serif;
+    margin: 2px 2px;
+    -webkit-transition-duration: 0.4s;
+    /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+      margin: 10px 10px 10px 10px;
+  
+  }
+
+  .buttoncommon1 {
+    float: right;
+    background-color: #d8eb08;
+    color: rgb(209, 5, 5);
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 5%;
+    overflow: hidden;
+
+}
+
